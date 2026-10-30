@@ -56,6 +56,10 @@ ESP32-Learning/
 - Connect grounds appropriately and test motor direction with the wheels lifted before floor testing.
 - Code in this repository is documented from submitted sketches. A written pin table is not proof that the physical wiring has been independently tested.
 
+## Learning Roadmap
+
+See [LEARNING-ROADMAP.md](LEARNING-ROADMAP.md) for the topic checklist, project validation tracker, and next actions.
+
 ## Current Priorities
 
 1. Add the exact source code for Project 01 and verify its command mapping.
